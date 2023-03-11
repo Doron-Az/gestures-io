@@ -1,4 +1,15 @@
-# useful information
+# Gestures IO
+
+Gestures IO is a software program that enables hand gesture detection and recognition using a webcam. It is developed using several popular open-source libraries, including Mediapipe, OpenCV, TensorFlow, and Python.
+
+With Gestures IO, users can conduct a lecture using gestures to the camera and perform several actions on the computer, such as switching between different programs, scrolling through documents, playing songs, and stopping them, and moving slides in a presentation. The software program is designed to be user-friendly and integrates with other applications with an easy-to-use API.
+
+## Features
+Real-time hand gesture detection and recognition using Mediapipe and TensorFlow
+Ability to recognize multiple hand gestures
+Configurable gesture recognition thresholds
+Integration with OpenCV for image processing
+Real-time training to teach the system new gestures
 
 ## installing
 1. create a python virtual environment (venv)
@@ -22,6 +33,21 @@
    3. py -m venv env
    4. then for any command always make sure to execute: .\env\Scripts\activate
    
+
+Gestures IO can recognize several different gestures, including:
+
+- Fist
+- Palm
+- Victory sign
+- Thumbs up
+- Thumbs down
+- Okay sign
+- Pinch
+
+It is of course also possible to teach new gestures using machine learning as explained above.
+
+## Contact
+If you have any questions or feedback, please open an issue on GitHub or email the project owner at doronazulay9@gmail.com .
+
 ## links
 1. https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#installing-virtualenv
-2. 
