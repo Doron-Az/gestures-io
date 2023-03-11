@@ -44,7 +44,7 @@ Gestures IO can recognize several different gestures, including:
 - Okay sign
 - Pinch
 
-It is of course also possible to teach new gestures using machine learning as explained above.
+New gestures can be taught using machine learning as explained above.
 
 ## Contact
 If you have any questions or feedback, please open an issue on GitHub or email the project owner at doronazulay9@gmail.com .
