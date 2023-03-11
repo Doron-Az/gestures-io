@@ -34,7 +34,7 @@ Real-time training to teach the system new gestures
    4. then for any command always make sure to execute: .\env\Scripts\activate
    
 
-Gestures IO can recognize several different gestures, including:
+## Gestures IO can recognize several different gestures, including:
 
 - Fist
 - Palm
