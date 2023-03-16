@@ -47,7 +47,7 @@ Real-time training to teach the system new gestures
 New gestures can be taught using machine learning as explained above.
 
 ## Contact
-If you have any questions or feedback, please open an issue on GitHub or email the project owner at doronazulay9@gmail.com .
+If you have any questions or feedback, please open an issue on GitHub or email the project owner at doronazulay9@gmail.com
 
 ## links
 1. https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#installing-virtualenv
