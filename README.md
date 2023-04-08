@@ -11,6 +11,12 @@ Configurable gesture recognition thresholds
 Integration with OpenCV for image processing
 Real-time training to teach the system new gestures.
 
+
+
+https://user-images.githubusercontent.com/86197721/230718789-186b83c5-72ad-4297-ace6-b65fca90c13b.mp4
+
+
+
 ## installing
 1. create a python virtual environment (venv)
 2. open terminal and execute: venv/Scripts/activate
