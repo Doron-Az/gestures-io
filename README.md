@@ -9,7 +9,7 @@ Real-time hand gesture detection and recognition using Mediapipe and TensorFlow
 Ability to recognize multiple hand gestures
 Configurable gesture recognition thresholds
 Integration with OpenCV for image processing
-Real-time training to teach the system new gestures.
+Real-time training to teach the system new gestures
 
 
 
