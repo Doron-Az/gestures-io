@@ -172,7 +172,7 @@ class AppMain:
     #         self.mode = 2
     #     self.mode = number
     #     return number
-
+    #
     def get_video(self):
         return self.cap
 
