@@ -16,7 +16,7 @@ mouse = MouseController()
 DELAY_TIME = 1
 
 # https://nitratine.net/blog/post/simulate-keypresses-in-python/
-
+#
 def pressDownArrow():
     keyboard.press(Key.down)
     keyboard.release(Key.down)
